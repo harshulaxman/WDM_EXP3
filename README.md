@@ -110,7 +110,8 @@ else:
 ```
 ### Output:
 
-![image](https://github.com/SarankumarJ/WDM_EXP3/assets/94778101/8ed27c89-8ffb-49bb-855f-2cf4229e2f33)
+![image](https://github.com/user-attachments/assets/b2c477c7-e69f-45f9-a104-577548825ed8)
+
 
 
 ### Visualization:
@@ -141,9 +142,8 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
 
-![image](https://github.com/SarankumarJ/WDM_EXP3/assets/94778101/df03d10b-bbb9-45db-b22d-f1d47901d412)
-
-![image](https://github.com/SarankumarJ/WDM_EXP3/assets/94778101/cb9b9370-a23c-41bf-a4b8-414d71f9b325)
+![image](https://github.com/user-attachments/assets/86e7c20c-3f14-4daf-a03c-937f047b8c3b)
+![image](https://github.com/user-attachments/assets/94ebf5a9-19c4-4e9f-8d94-7b2c8cedcba4)
 
 
 ### Result:
